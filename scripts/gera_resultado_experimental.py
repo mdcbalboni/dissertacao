@@ -5,6 +5,7 @@ import re
 import pandas as pd
 
 
+
 caminho_inicial = '/home/balboni/'
 caminho_base_de_dados = caminho_inicial + 'dados/v2020-other-PL/'
 caminho_saida = caminho_inicial + 'resultados/'
