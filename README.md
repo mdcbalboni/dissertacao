@@ -24,4 +24,4 @@ Contém as nove funções de escore utilizadas no presente trabalho. Cada pasta 
 
 Os arquivos mais pesados podem ser encontrados no seguinte link: [Google Drive](https://drive.google.com/drive/folders/1uGT7S-xFXEVLJnDlDkxjpPxFzxicrzvj?usp=sharing).
 
-Para esclarecimento de dúvidas, entre em contato por e-mail: baalbis@gmail.com.
+Para esclarecimento de dúvidas, entre em contato por e-mail: mdcbalboni@gmail.com.
